@@ -2,8 +2,8 @@
     <Source>
         <Name>python-kitchen</Name>
         <Packager>
-            <Name>Justin Zobel</Name>
-            <Email>justin@solus-project.com</Email>
+            <Name>Peter O&apos;Connor</Name>
+            <Email>peter@solus-project.com</Email>
         </Packager>
         <License>LGPL-2.0+</License>
         <PartOf>programming.python</PartOf>
@@ -75,63 +75,63 @@ Well, no longer! Kitchen aims to pull these small snippets of code into a few py
             <Path fileType="library">/usr/lib/python2.7/site-packages/kitchen/text/utf8.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/kitchen/versioning/__init__.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/kitchen/versioning/__init__.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen-1.2.5-py3.5.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen-1.2.5-py3.5.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen-1.2.5-py3.5.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen-1.2.5-py3.5.egg-info/top_level.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/__pycache__/exceptions.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/__pycache__/release.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/collections/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/collections/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/collections/__pycache__/strictdict.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/collections/strictdict.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/exceptions.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/i18n/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/i18n/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/iterutils/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/iterutils/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/pycompat24/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/pycompat24/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/pycompat24/__pycache__/subprocess.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/pycompat24/base64/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/pycompat24/base64/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/pycompat24/sets/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/pycompat24/sets/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/pycompat24/subprocess.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/pycompat25/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/pycompat25/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/pycompat25/collections/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/pycompat25/collections/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/pycompat27/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/pycompat27/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/pycompat27/subprocess/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/pycompat27/subprocess/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/release.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/text/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/text/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/text/__pycache__/converters.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/text/__pycache__/display.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/text/__pycache__/exceptions.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/text/__pycache__/misc.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/text/__pycache__/utf8.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/text/converters.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/text/display.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/text/exceptions.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/text/misc.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/text/utf8.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/versioning/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/kitchen/versioning/__pycache__/__init__.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen-1.2.5-py3.6.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen-1.2.5-py3.6.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen-1.2.5-py3.6.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen-1.2.5-py3.6.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/__pycache__/exceptions.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/__pycache__/release.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/collections/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/collections/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/collections/__pycache__/strictdict.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/collections/strictdict.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/exceptions.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/i18n/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/i18n/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/iterutils/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/iterutils/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/pycompat24/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/pycompat24/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/pycompat24/__pycache__/subprocess.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/pycompat24/base64/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/pycompat24/base64/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/pycompat24/sets/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/pycompat24/sets/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/pycompat24/subprocess.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/pycompat25/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/pycompat25/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/pycompat25/collections/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/pycompat25/collections/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/pycompat27/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/pycompat27/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/pycompat27/subprocess/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/pycompat27/subprocess/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/release.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/text/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/text/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/text/__pycache__/converters.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/text/__pycache__/display.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/text/__pycache__/exceptions.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/text/__pycache__/misc.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/text/__pycache__/utf8.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/text/converters.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/text/display.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/text/exceptions.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/text/misc.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/text/utf8.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/versioning/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/kitchen/versioning/__pycache__/__init__.cpython-36.pyc</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2017-09-06</Date>
+        <Update release="2">
+            <Date>2018-01-30</Date>
             <Version>1.2.5</Version>
             <Comment>Packaging update</Comment>
-            <Name>Justin Zobel</Name>
-            <Email>justin@solus-project.com</Email>
+            <Name>Peter O&apos;Connor</Name>
+            <Email>peter@solus-project.com</Email>
         </Update>
     </History>
 </PISI>

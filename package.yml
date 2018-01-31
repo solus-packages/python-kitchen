@@ -1,6 +1,6 @@
 name       : python-kitchen
 version    : 1.2.5
-release    : 1
+release    : 2
 source     :
     - https://pypi.python.org/packages/14/3c/eb027400d34ed066d882d4cbbcb9b84eb7e91a7be770dd6fecebc37ba91f/kitchen-1.2.5.tar.gz : af9fbb60f68cbdb2ead402beb8fa7c7edadbe2aa7b5a70138b7c4b0fa88153fd
 license    : LGPL-2.0+
